@@ -1,0 +1,15 @@
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/bin/Debug/net7.0/C#FirstStep
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/bin/Debug/net7.0/C#FirstStep.deps.json
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/bin/Debug/net7.0/C#FirstStep.runtimeconfig.json
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/bin/Debug/net7.0/C#FirstStep.dll
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/bin/Debug/net7.0/C#FirstStep.pdb
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/obj/Debug/net7.0/C#FirstStep.csproj.AssemblyReference.cache
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/obj/Debug/net7.0/C#FirstStep.GeneratedMSBuildEditorConfig.editorconfig
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/obj/Debug/net7.0/C#FirstStep.AssemblyInfoInputs.cache
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/obj/Debug/net7.0/C#FirstStep.AssemblyInfo.cs
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/obj/Debug/net7.0/C#FirstStep.csproj.CoreCompileInputs.cache
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/obj/Debug/net7.0/C#FirstStep.dll
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/obj/Debug/net7.0/refint/C#FirstStep.dll
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/obj/Debug/net7.0/C#FirstStep.pdb
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/obj/Debug/net7.0/C#FirstStep.genruntimeconfig.cache
+/Users/om/Documents/Учёба/C# Lecion/C#FirstStep/obj/Debug/net7.0/ref/C#FirstStep.dll
